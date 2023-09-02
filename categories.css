@@ -9,6 +9,7 @@
   padding: 1rem;
   background-position: center;
   background-size: cover;
+  margin-bottom: 30px;
 
 }
 
@@ -24,7 +25,7 @@
   font-size: 20px;
   font-weight: 300;
   line-height: 25px;
-  margin-bottom: 1rem;
+  
 }
 
 .shopnow-btn {
@@ -94,11 +95,13 @@
 .products .container{
    margin: 0 auto;
    width: 95%;
+   margin-top: -100px;
 
 }
 
 .products{
    padding:50px 0;
+   
 }
 
 .products h2{

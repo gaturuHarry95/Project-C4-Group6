@@ -5,6 +5,7 @@
 
 .recents {
   padding: 50px 0;
+ 
 }
 
 .recents_container {
@@ -12,6 +13,8 @@
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
   position: relative;
+  margin-top: -10px;
+  
 }
 
 .recents h2{
